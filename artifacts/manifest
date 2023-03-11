@@ -1,0 +1,30 @@
+[
+    {
+        "name": "PrintedDroid-Uppity-23.03.11",
+        "branch": "23.03.11",
+        "description": "### 2023 March 11",
+        "url": "https://github.com/reeltwo/PeriscopeLightsFirmware/releases/download/23.03.11/PrintedDroid-Uppity.bin",
+        "zipfile": "https://github.com/reeltwo/PeriscopeLightsFirmware/releases/download/23.03.11/PeriscopeLightsFirmware.zip",
+        "release_details": {
+            "version": "23.03.11",
+            "idf": "v4.3",
+            "platform": "PrintedDroid-Uppity",
+            "branch": "23.02.27"
+        },
+        "manifest_name": "PrintedDroid-Uppity-23.03.11-manifest.json"
+    },
+    {
+        "name": "PrintedDroid-Serial-23.03.11",
+        "branch": "23.03.11",
+        "description": "### 2023 March 11",
+        "url": "https://github.com/reeltwo/PeriscopeLightsFirmware/releases/download/23.03.11/PrintedDroid-Serial.bin",
+        "zipfile": "https://github.com/reeltwo/PeriscopeLightsFirmware/releases/download/23.03.11/PeriscopeLightsFirmware.zip",
+        "release_details": {
+            "version": "23.03.11",
+            "idf": "v4.3",
+            "platform": "PrintedDroid-Serial",
+            "branch": "23.02.27"
+        },
+        "manifest_name": "PrintedDroid-Serial-23.03.11-manifest.json"
+    }
+]
